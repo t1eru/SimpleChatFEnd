@@ -1,1 +1,3 @@
-# SimpleChatFEnd
+Черичка Максим Андрійович КВ-41мп Лабораторна робота №1 з дисципліни «Програмування Web-інтерфейсів» Тема: «Розробка клієнтської частини Web-додатка» Завдання: Розробити клієнтську частину Web-додатку.
+
+Посилання на звіт: https://docs.google.com/document/d/1gOWaWXt8vuOgLmrjWigDJ8EytgXL9O45rJdVGWtGrAo/edit?usp=sharing
